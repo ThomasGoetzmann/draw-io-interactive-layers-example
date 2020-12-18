@@ -18,6 +18,7 @@ data:action/json,{"actions":[{"toggle": {"cells": ["REPLACE_WITH_ID_OF_YOUR_LAYE
 ```
 data:action/json,{"actions":[{"toggle":{"tags":["REPLACE_WITH_ID_OF_YOUR_LAYER"]}}]}
 ```
+![Tag multiple shapes Gif](tag_multiple_shapes.gif)
 
 ## Shapes highlighting: 
 
