@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T10:35:36.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8pt5eLOeleOcGqkdo1qw" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T10:37:06.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3T3Mq2Z6elkgOmkbDwde" version="14.0.5" type="github">
   <diagram id="Lv2YGqO-OwNr9sVmkdVH" name="Page-1">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="locked=1;" parent="0" />
@@ -112,8 +112,11 @@
         <mxCell id="1adWnvIW1H5y-nOE70Pw-51" value="Bonus. Lock your layers before using them in presentation to avoid breaking stuff." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1adWnvIW1H5y-nOE70Pw-4">
           <mxGeometry y="1060" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1adWnvIW1H5y-nOE70Pw-54" value="What about me? (T-T)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#E047FF;strokeWidth=2;fillColor=none;align=center;size=30;position=0.5;base=20;fontColor=#E047FF;" vertex="1" parent="1adWnvIW1H5y-nOE70Pw-4">
+        <mxCell id="1adWnvIW1H5y-nOE70Pw-54" value="&amp;nbsp; &amp;nbsp;What about me?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#E047FF;strokeWidth=2;fillColor=none;align=left;size=30;position=0.5;base=20;fontColor=#E047FF;" vertex="1" parent="1adWnvIW1H5y-nOE70Pw-4">
           <mxGeometry x="610" y="290" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1adWnvIW1H5y-nOE70Pw-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/smileys-for-fun/128/smiley__8-128.png;strokeColor=#E047FF;strokeWidth=2;fillColor=none;fontColor=#E047FF;align=center;" vertex="1" parent="1adWnvIW1H5y-nOE70Pw-4">
+          <mxGeometry x="717" y="290" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
