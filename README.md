@@ -7,6 +7,8 @@ Tutorial / Example on how to create an interactive map on draw.io
 data:action/json,{"actions":[{"toggle": {"cells": ["REPLACE_WITH_ID_OF_YOUR_LAYER"]}}]}
 ```
 
+![Toggle Layers Gif](toggle_layers.gif)
+
 ## Same but with Tags instead of Ids
 
 1. Add the ```Tags``` plugin from ```Menu/Extras/Plugins```
