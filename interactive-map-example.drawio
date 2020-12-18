@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T10:32:54.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="l1YAIxcqyrI6vAL5hxHr" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-18T10:35:36.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="8pt5eLOeleOcGqkdo1qw" version="14.0.5" type="github">
   <diagram id="Lv2YGqO-OwNr9sVmkdVH" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,9 @@
         </UserObject>
         <mxCell id="1adWnvIW1H5y-nOE70Pw-51" value="Bonus. Lock your layers before using them in presentation to avoid breaking stuff." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1adWnvIW1H5y-nOE70Pw-4">
           <mxGeometry y="1060" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1adWnvIW1H5y-nOE70Pw-54" value="What about me? (T-T)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;strokeColor=#E047FF;strokeWidth=2;fillColor=none;align=center;size=30;position=0.5;base=20;fontColor=#E047FF;" vertex="1" parent="1adWnvIW1H5y-nOE70Pw-4">
+          <mxGeometry x="610" y="290" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
