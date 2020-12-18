@@ -1,5 +1,6 @@
 # draw-io-interactive-layers-example
 Tutorial / Example on how to create an interactive map on draw.io
+[Link to the example in draw.io](https://app.diagrams.net/#HThomasGoetzmann%2Fdraw-io-interactive-layers-example%2Fmain%2Finteractive-map-example.drawio)
 
 ## Layer toggling:
 
